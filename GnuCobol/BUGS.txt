@@ -1,0 +1,5 @@
+
+Known bugs found in this distribution, which are normally not in GnuCOBOL n.n:
+
+* NONE
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023.11.20 16:16:05.362,=rtl.dcp</Transaction>
+    <Transaction>2023.11.20 16:16:27.146,C:\Users\Viktor\Desktop\GnuCobol\GnuCobol.dproj=C:\Users\Viktor\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2023.11.20 16:24:15.402,=C:\Users\Viktor\Desktop\GnuCobol\COBOLRunner.pas</Transaction>
+    <Transaction>2023.11.20 16:27:13.384,=C:\Users\Viktor\Desktop\GnuCobol\Unit1.pas</Transaction>
+    <Transaction>2023.11.20 16:29:58.845,C:\Users\Viktor\Desktop\GnuCobol\SynHighlighterCOBOL.pas=C:\Users\Viktor\Desktop\GnuCobol\Unit1.pas</Transaction>
+    <Transaction>2023.11.20 16:33:46.861,C:\Users\Viktor\Desktop\GnuCobol\SynHighlighterCOBOL.pas=</Transaction>
+    <Transaction>2023.11.20 16:33:53.102,=vcl.dcp</Transaction>
+    <Transaction>2023.11.20 16:33:53.140,=SynEditDR.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
